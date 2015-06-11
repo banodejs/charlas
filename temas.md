@@ -17,3 +17,5 @@ Ideas de las cuales pueden surgir charlas:
 - V8
 - Historia de Node
 - High performance JavaScript
+- Historias de migraciones a Node
+- Experiencias
