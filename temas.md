@@ -13,3 +13,7 @@ Ideas de las cuales pueden surgir charlas:
 - Tooling
 - Load balancing
 - Express.js / Hapi.js / Kraken.js / Restify
+- Aplicaciones de tiempo real
+- V8
+- Historia de Node
+- High performance JavaScript
